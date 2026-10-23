@@ -1,10 +1,11 @@
-# Welcome!
+# Aleksey Kuznetsov
 
-I'm an iOS Engineer interested in many technologies.
+Senior software engineer with 13+ years building production software — product
+development, architecture, and large-scale migrations. More recently my focus
+has been AI engineering and how it can empower new product development.
 
-I have a [blog](https://zummenix.github.io)
-
-Here is my public CV/Resume in different formats: [PDF](export/Resume-AlekseyKuznetsov.pdf) | [Markdown](RESUME.md)
+- [Resume](RESUME.md) · [PDF](export/Resume-AlekseyKuznetsov.pdf)
+- [Detailed experience](EXPERIENCE.md) — projects and earlier roles in depth
+- [Blog](https://zummenix.github.io)
 
 **Have a nice day!**
-
